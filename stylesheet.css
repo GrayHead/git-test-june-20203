@@ -1,0 +1,9 @@
+.joke{
+    background: white;
+    width: 100%;
+    height: 300px;
+    font-size: 50px;
+    position: fixed;
+    top: 0;
+
+}
